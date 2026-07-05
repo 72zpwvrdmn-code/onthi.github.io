@@ -1,0 +1,2164 @@
+[
+    {
+        "question":  "Điều 4 Thông tư 31/2021/TT-BYT quy định công tác điều dưỡng trong bệnh viện là:",
+        "options":  [
+                        {
+                            "text":  "Chăm sóc về tinh thần",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Chăm sóc vệ sinh cá nhân",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Chăm sóc dinh dưỡng",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Phân cấp chăm sóc người bệnh",
+                            "correct":  true
+                        }
+                    ],
+        "id":  1,
+        "explanation":  "Đáp án đúng là: Phân cấp chăm sóc người bệnh. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Trách nhiệm của điều dưỡng viên, hộ sinh viên trong công tác chăm sóc người bệnh là:",
+        "options":  [
+                        {
+                            "text":  "Phối hợp chặt chẽ với bác sĩ điều trị, điều dưỡng viên, hộ sinh viên và kỹ thuật viên",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Tuân thủ các quy trình kỹ thuật điều dưỡng, các quy định của Bộ Y tế và của bệnh viện",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Thực hiện quy tắc ứng xử và thực hiện giao tiếp với đồng nghiệp, người bệnh và người nhà người bệnh.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Cả A, B và C",
+                            "correct":  true
+                        }
+                    ],
+        "id":  2,
+        "explanation":  "Đáp án đúng là: Cả A, B và C. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Thông tư 31/2021/TT-BYT Quy định hoạt động điều dưỡng trong bệnh viện có hiệu lực từ:",
+        "options":  [
+                        {
+                            "text":  "Ngày 27 tháng 01 năm 2022",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Ngày 27 tháng 02 năm 2022",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Ngày 27 tháng 03 năm 2022",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Ngày 27 tháng 04 năm 2022",
+                            "correct":  false
+                        }
+                    ],
+        "id":  3,
+        "explanation":  "Đáp án đúng là: Ngày 27 tháng 02 năm 2022. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Thông tư 31/2021/TT-BYT hướng dẫn công tác điều dưỡng chăm sóc ngườibệnh trong bệnh viện có:",
+        "options":  [
+                        {
+                            "text":  "04 chương 30 điều",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "04 chương 22 điều",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "06 chương 30 điều",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "07 chương 32 điều",
+                            "correct":  false
+                        }
+                    ],
+        "id":  4,
+        "explanation":  "Đáp án đúng là: 04 chương 22 điều. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Quy trình “Báo động đỏ” được SYT khuyến cáo áp dụng cho loại bệnh viện nào?",
+        "options":  [
+                        {
+                            "text":  "Bệnh viện tuyến huyện",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Bệnh viện chuyên khoa tuyến tỉnh",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Bệnh viện đa khoa tuyến tỉnh",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Tất cả bệnh viện",
+                            "correct":  true
+                        }
+                    ],
+        "id":  5,
+        "explanation":  "Đáp án đúng là: Tất cả bệnh viện. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Một hoạt động không thể thiếu khi triển khai quy trình báo động đỏ tại bệnh viện là gì?",
+        "options":  [
+                        {
+                            "text":  "Trang bị xe cứu thương đầy đủ dụng cụ cấp cứu",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Diễn tập",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Phổ biến quy trình",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Sổ báo cáo quy trình báo động đỏ",
+                            "correct":  false
+                        }
+                    ],
+        "id":  6,
+        "explanation":  "Đáp án đúng là: Diễn tập. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Hồ sơ bệnh án được lưu theo cáo độ mật, theo đó hồ sơ bệnh án của người bệnh tử vong phải lưu trữ:",
+        "options":  [
+                        {
+                            "text":  "Ít nhất 10 năm",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Ít nhất 15 năm",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Ít nhất 20 năm",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Ít nhất 25 năm",
+                            "correct":  false
+                        }
+                    ],
+        "id":  7,
+        "explanation":  "Đáp án đúng là: Ít nhất 20 năm. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Trong trường hợp đang phẫu thuật, bác sĩ có thể ra y lệnh miệng thì điều dưỡng/ kỹ thuật viên gây mê ghi chép vào hồ sơ bệnh án và:",
+        "options":  [
+                        {
+                            "text":  "Phải thực hiện y lệnh ngay",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Phải xác nhận lại với bác sĩ các thông tin trước khi thực hiện",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Yêu cầu bác sĩ ký tên vào hồ sơ bệnh án trước khi thực hiện",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Thực hiện y lệnh và đề nghị bác sĩ ký vào hồ sơ ngay sau khi phẫu thuật xong",
+                            "correct":  false
+                        }
+                    ],
+        "id":  8,
+        "explanation":  "Đáp án đúng là: Phải xác nhận lại với bác sĩ các thông tin trước khi thực hiện. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Để đảm bảo tuân thủ các qui định về thủ tục hành chính mang tính pháp lý trong phẫu thuật, chỉ tiến hành phẫu thuật khi:",
+        "options":  [
+                        {
+                            "text":  "Đã xác nhận chính xác người bệnh",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Đã có giấy cam đoan chấp thuận phẫu thuật",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Đã đánh dấu vị trí phẫu thuật",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Đã thực hiện tư vấn đầy đủ cho người bênh/người nhà người bệnh",
+                            "correct":  false
+                        }
+                    ],
+        "id":  9,
+        "explanation":  "Đáp án đúng là: Đã có giấy cam đoan chấp thuận phẫu thuật. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Trong trường hợp cần phải phẫu thuật để cứu người bệnh nhưng không thể hỏi ý kiến của người bệnh hoặc người đại diện của người bệnh thì NGƯỜI QUYẾT ĐỊNH là:",
+        "options":  [
+                        {
+                            "text":  "Giám đốc bệnh viện có văn bản xin ý kiến Sở Y tế",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Giám đốc Sở Y tế",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Giám đốc bệnh viện",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Phẫu thuật viên chính",
+                            "correct":  false
+                        }
+                    ],
+        "id":  10,
+        "explanation":  "Đáp án đúng là: Giám đốc bệnh viện. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Người có thẩm quyền ký giấy ra viện là",
+        "options":  [
+                        {
+                            "text":  "Phó Giám đốc Bệnh viện",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Trưởng phòng Kế hoạch Tổng hợp",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Trưởng phòng Hành chánh Quản trị",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Lãnh đạo các Khoa/Phòng khi có văn bản ủy quyền của Giám đốc bệnh viện",
+                            "correct":  true
+                        }
+                    ],
+        "id":  11,
+        "explanation":  "Đáp án đúng là: Lãnh đạo các Khoa/Phòng khi có văn bản ủy quyền của Giám đốc bệnh viện. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "5 đúng khi cho người bệnh sử dụng thuốc là",
+        "options":  [
+                        {
+                            "text":  "Đúng người bệnh; đúng thuốc; đúng liều dùng; đúng đường dùng",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Đúng người bệnh; đúng thuốc; đúng liều dùng; đúng đường dùng; đúng thời gian",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Đúng người bệnh; đúng thuốc; đúng liều dùng; đúng đường dùng; đúng dung môi pha thuốc.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Đúng người bệnh; đúng thuốc; đúng liều dùng; đúng đường dùng; đúng thể tích dung môi pha thuốc.",
+                            "correct":  false
+                        }
+                    ],
+        "id":  12,
+        "explanation":  "Đáp án đúng là: Đúng người bệnh; đúng thuốc; đúng liều dùng; đúng đường dùng; đúng thời gian. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Thời gian từ khi kết thúc việc làm tan đông đến khi kết thúc việc truyền máu cho người bệnh KHÔNG QUÁ:",
+        "options":  [
+                        {
+                            "text":  "02 giờ",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "04 giờ",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "06 giờ",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "08 giờ",
+                            "correct":  false
+                        }
+                    ],
+        "id":  13,
+        "explanation":  "Đáp án đúng là: 06 giờ. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Viên chức có mấy năm liên tiếp bị phân loại đánh giá ở mức độ không hoàn thành nhiệm vụ thì bị đơn phương chấm dứt hợp đồng lao động?",
+        "options":  [
+                        {
+                            "text":  "01 năm.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "02 năm.",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "03 năm.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "04 năm.",
+                            "correct":  false
+                        }
+                    ],
+        "id":  14,
+        "explanation":  "Đáp án đúng là: 02 năm.. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Những việc KHÔNG ĐƯỢC LÀM của viên chức y tế khi thi hành công vụ, nhiệm vụ được giao",
+        "options":  [
+                        {
+                            "text":  "Trốn tránh trách nhiệm, thoái thác công việc hoặc nhiệm vụ được giao",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Lạm dụng chức năng, nhiệm vụ, quyền hạn được giao và danh tiếng của cơ quan, đơn vị để giải quyết công việc cá nhân; tự đề cao vai trò của bản thân để vụ lợi",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Phân biệt đối xử về dân tộc, nam nữ, các thành phần xã hội, tín ngưỡng, tôn giáo dưới mọi hình thức",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Tất cả các nội dung trên",
+                            "correct":  true
+                        }
+                    ],
+        "id":  15,
+        "explanation":  "Đáp án đúng là: Tất cả các nội dung trên. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Hàng năm, nội dung đánh giá viên chức được phân thành?",
+        "options":  [
+                        {
+                            "text":  "Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ, Hoàn thành nhiệm vụ nhưng còn hạn chế; Không hoàn thành nhiệm vụ.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ, Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ.",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ, Hoàn thành nhiệm vụ.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ.",
+                            "correct":  false
+                        }
+                    ],
+        "id":  16,
+        "explanation":  "Đáp án đúng là: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ, Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ.. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Đảm bảo an toàn truyền máu nhằm mục đích",
+        "options":  [
+                        {
+                            "text":  "Đảm bảo an toàn tuyệt đối cho người nhận máu",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Đảm bảo an toàn người cho máu, người nhận máu và nhân viên y tế",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Đảm bảo đúng chỉ định truyền máu",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Không có nguy cơ lây lan các bệnh truyền nhiễm",
+                            "correct":  false
+                        }
+                    ],
+        "id":  17,
+        "explanation":  "Đáp án đúng là: Đảm bảo an toàn người cho máu, người nhận máu và nhân viên y tế. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Yêu cầu theo dõi người bệnh khi truyền máu",
+        "options":  [
+                        {
+                            "text":  "Liên tục trong suốt thời gian truyền máu",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "30 phút đầu khi truyền máu",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Chỉ khi có dấu hiệu bất thường",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Theo dõi ít nhất 03 lần trong một đơn vị máu.",
+                            "correct":  false
+                        }
+                    ],
+        "id":  18,
+        "explanation":  "Đáp án đúng là: Liên tục trong suốt thời gian truyền máu. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Để đảm bảo an toàn cho người bệnh trong sử dụng thuốc, chúng ta phải tuân thủ",
+        "options":  [
+                        {
+                            "text":  "Quy trình kiểm tra kép (Doublecheck)",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Quy trình 3 đúng",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Quy trình 4 đúng",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Quy trình 5 đúng",
+                            "correct":  true
+                        }
+                    ],
+        "id":  19,
+        "explanation":  "Đáp án đúng là: Quy trình 5 đúng. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Quy trình chống nhầm lẫn người bệnh được thực hiện trong",
+        "options":  [
+                        {
+                            "text":  "Cấp phát thuốc",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Phẫu thủ thuật",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Xét nghiệm",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Tất cả đúng",
+                            "correct":  true
+                        }
+                    ],
+        "id":  20,
+        "explanation":  "Đáp án đúng là: Tất cả đúng. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Cách xử trí khi bị tổn thương do kim tiêm hay vật sắc nhọn",
+        "options":  [
+                        {
+                            "text":  "Nặn, bóp vết thương cho chảy nhanh hết máu nghi bị nhiễm rồi rửa tay bằng nước sạch",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Để máu chảy tự nhiên, rửa ngay dưới vòi nước chảy sạch",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Lập biên bản báo cáo sự cố để lãnh thuốc uống dự phòng",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Để máu chảy tự nhiên 5 phút rồi rửa vết thương bằng dung dịch sát khuẩn",
+                            "correct":  false
+                        }
+                    ],
+        "id":  21,
+        "explanation":  "Đáp án đúng là: Để máu chảy tự nhiên, rửa ngay dưới vòi nước chảy sạch. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Trong nguyên tắc thực hành tiêm an toàn, để không gây nguy hại cho người nhận mũi tiêm điều dưỡng cần làm gì?",
+        "options":  [
+                        {
+                            "text":  "Mang găng khi có nguy cơ tiếp xúc với máu hoặc dịch tiết của người bệnh.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Thực hiện 5 đúng",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Bỏ bơm, kim tiêm vào hộp kháng thủng ngay sau khi tiêm",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Tất cả đều đúng",
+                            "correct":  true
+                        }
+                    ],
+        "id":  22,
+        "explanation":  "Đáp án đúng là: Tất cả đều đúng. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Điều nào sau đây vi phạm nguyên tắc trong thực hành tiêm an toàn",
+        "options":  [
+                        {
+                            "text":  "Sử dụng một bơm kim tiêm cho một người bệnh",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Cùng một giờ tiêm thuốc có thể pha nhiều lọ thuốc một lần tại phòng pha thuốc để giảm nguy cơ ngoại nhiễm",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Loại bỏ thuốc đa liều nếu bảo quản không đúng",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Ống thuốc tiêm sau khi chuẩn bị không thể dùng ngay thì giữ lại trong khay được hấp sấy khô",
+                            "correct":  false
+                        }
+                    ],
+        "id":  23,
+        "explanation":  "Đáp án đúng là: Cùng một giờ tiêm thuốc có thể pha nhiều lọ thuốc một lần tại phòng pha thuốc để giảm nguy cơ ngoại nhiễm. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Những điểm cần chú ý khi mang găng vô khuẩn, NGOẠI TRỪ",
+        "options":  [
+                        {
+                            "text":  "Chọn đúng số của găng phù hợp với bàn tay của mình",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Mang găng bàn tay nào trước cũng được",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Phải kiểm tra tính vô khuẩn của đôi găng",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Luôn luôn phải thoa bột talc vào 2 tay trước khi mang găng",
+                            "correct":  true
+                        }
+                    ],
+        "id":  24,
+        "explanation":  "Đáp án đúng là: Luôn luôn phải thoa bột talc vào 2 tay trước khi mang găng. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Xử trí nào không đúng khi bệnh nhân có biểu hiện của sốc phảnvệ",
+        "options":  [
+                        {
+                            "text":  "Ngừng ngay đường đường tiếp xúc với dị nguyên, thuốc đang dùng như tiêm truyền, uống, nhỏ mắt, mũi, bôi da…",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Để bệnh nhân nằm đầu cao, chân thấp, cổ ngửa",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Để bệnh nhân nằm đầu thấp chân cao",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Cởi bỏ bớt các trang phục như dây thắt, quần áo quá chặt.",
+                            "correct":  false
+                        }
+                    ],
+        "id":  25,
+        "explanation":  "Đáp án đúng là: Để bệnh nhân nằm đầu cao, chân thấp, cổ ngửa. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Xử trí bệnh nhân sốc phản vệ, Điều dưỡng KHÔNG được làm khi chưa có mặt bác sĩ",
+        "options":  [
+                        {
+                            "text":  "Ngưng thuốc đang tiêm",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Cho bệnh nhân nằm đầu phẳng",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Hỗ trợ hô hấp",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Adrenaline truyền tĩnh mạch",
+                            "correct":  true
+                        }
+                    ],
+        "id":  26,
+        "explanation":  "Đáp án đúng là: Adrenaline truyền tĩnh mạch. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Thuốc đầu tay trong điều trị sốc phản vệ là",
+        "options":  [
+                        {
+                            "text":  "Adrenaline",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Salbutamol",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Diaphylline",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Hydrocortisone",
+                            "correct":  false
+                        }
+                    ],
+        "id":  27,
+        "explanation":  "Đáp án đúng là: Adrenaline. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Một trong những thứ tự chà tay bằng bàn chải trong rửa tay ngoại khoa là:",
+        "options":  [
+                        {
+                            "text":  "Móng tay, lòng bàn tay, từng ngón tay, lưng bàn tay, cẳng tay",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Móng tay, lưng bàn tay, từng ngón tay, lòng bàn tay, cẳng tay",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Móng tay, từng ngón tay, lưng bàn tay, lòng bàn tay, cẳng tay",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Móng tay, từng ngón tay, lòng bàn tay, lưng bàn tay, cẳng tay",
+                            "correct":  true
+                        }
+                    ],
+        "id":  28,
+        "explanation":  "Đáp án đúng là: Móng tay, từng ngón tay, lòng bàn tay, lưng bàn tay, cẳng tay. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Dòng chất thải nào sau đây cần được vận chuyển trực tiếp và thu gom theo yêu cầu?",
+        "options":  [
+                        {
+                            "text":  "Dược phẩm",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Chất thải truyền nhiễm",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Chất thải tái chế",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Vật sắc nhọn",
+                            "correct":  false
+                        }
+                    ],
+        "id":  29,
+        "explanation":  "Đáp án đúng là: Chất thải truyền nhiễm. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Điền từ thích hợp vào vị trí trống sau đây “Quy trình rửa tay thường tay gồm …. và thời gian tối thiểu là …”",
+        "options":  [
+                        {
+                            "text":  "5 bước; 10 giây",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "5 bước; 30 giây",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "6 bước; 10 giây",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "6 bước; 30 giây",
+                            "correct":  true
+                        }
+                    ],
+        "id":  30,
+        "explanation":  "Đáp án đúng là: 6 bước; 30 giây. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Trước khi tiến hành các quy trình vô khuẩn tiếp theo, các dụng cụ sau khi làm sạch cần phải?",
+        "options":  [
+                        {
+                            "text":  "Để khô tự nhiên",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Lau khô",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "a, b đều sai",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "a, b đều đúng",
+                            "correct":  false
+                        }
+                    ],
+        "id":  31,
+        "explanation":  "Đáp án đúng là: Lau khô. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Loại dụng cụ nào sau đây cần phải tiệt khuẩn?:",
+        "options":  [
+                        {
+                            "text":  "Dụng cụ phẫu thuật nội soi.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Bộ dụng cụ thay băng.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Mask thở oxy.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Cả 3 dụng cụ trên.",
+                            "correct":  true
+                        }
+                    ],
+        "id":  32,
+        "explanation":  "Đáp án đúng là: Cả 3 dụng cụ trên.. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Bao bì, dụng cụ lưu trữ chất thải lây nhiễm có màu gì?",
+        "options":  [
+                        {
+                            "text":  "Xanh",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Vàng",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Đen",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Trắng",
+                            "correct":  false
+                        }
+                    ],
+        "id":  33,
+        "explanation":  "Đáp án đúng là: Vàng. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Khi nhân viên y tế bị phơi nhiễm do kim đâm, vết cắt hay trầy da, trong các bước thực hiện dưới đây, bước nào SAI?",
+        "options":  [
+                        {
+                            "text":  "Thông tin cho đồng nghiệp làm việc gần đó.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Nặn hoặc hút máu ở vị trí tổn thương càng sớm càng tốt.",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Rửa vết thương dưới dòng nước chảy tối thiểu 5 phút và băng vết thương.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Báo cáo tai nạn cho cấp trên và tuân thủ quy trình xử lý sau phơi nhiễm",
+                            "correct":  false
+                        }
+                    ],
+        "id":  34,
+        "explanation":  "Đáp án đúng là: Nặn hoặc hút máu ở vị trí tổn thương càng sớm càng tốt.. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Nguyên tắc khử, tiệt khuẩn dụng cụ",
+        "options":  [
+                        {
+                            "text":  "Dụng cụ khi sử dụng cho mỗi người bệnh phải được xử thích hợp",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "NVYT phải được huấn luyện và trang bị đầy đủ các phƣơng tiện phòng hộ khi xử lýcác dụng cụ",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Dụng cụ y tế trong các cơ sở KBCB phải được quản và xử lý tập trung",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Tất cả đều đúng",
+                            "correct":  true
+                        }
+                    ],
+        "id":  35,
+        "explanation":  "Đáp án đúng là: Tất cả đều đúng. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Hãy chọn phương pháp xử lý tốt nhất phù hợp với nhiệt kế và ống nghe",
+        "options":  [
+                        {
+                            "text":  "Khử khuẩn mức độ cao",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Tiệt khuẩn",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Khử khuẩn mức độ thấp",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Tất cả đều đúng",
+                            "correct":  false
+                        }
+                    ],
+        "id":  36,
+        "explanation":  "Đáp án đúng là: Khử khuẩn mức độ thấp. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Chăm sóc người bệnh có thông tiểu lưu, cần đảm bảo các điều sau, NGOẠI TRỪ:",
+        "options":  [
+                        {
+                            "text":  "Làm sạch vùng xung quanh niệu đạo bằng dung dịch khử khuẩn để phòng ngừa nhiễm khuẩn tiết niệu",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Chỉ dùng hóa chất làm sạch thông thường vùng xung quanh niệu đạo",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Loại bỏ thường xuyên nước tiểu trong túi dẫn lưu",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Mang găng khi thực hiện bất kỳ thao tác nào có động chạm tới ống thông tiểu hoặc túi lưu nước tiểu",
+                            "correct":  false
+                        }
+                    ],
+        "id":  37,
+        "explanation":  "Đáp án đúng là: Làm sạch vùng xung quanh niệu đạo bằng dung dịch khử khuẩn để phòng ngừa nhiễm khuẩn tiết niệu. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Khuyến cáo nào sau đây chưa đúng về việc sử dụng găng tay trong y tế:",
+        "options":  [
+                        {
+                            "text":  "Không sử dụng một đôi găng để làm nhiều nhiệm vụ khác nhau",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Không sử dụng một đôi găng để chăm sóc cho nhiều người bệnh",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Không sử dụng lại găng tay bằng cách chà tay ngoài găng bằng dung dịch vệ sinh taychứa cồn để tiếp tục chăm sóc cho người bệnh khác.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Xem xét lựa chọn loại găng tay có bột talc để thuận lợi cho việc vệ sinh tay ngoại khoa",
+                            "correct":  true
+                        }
+                    ],
+        "id":  38,
+        "explanation":  "Đáp án đúng là: Xem xét lựa chọn loại găng tay có bột talc để thuận lợi cho việc vệ sinh tay ngoại khoa. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Nếu bàn tay nhìn rõ vết bẩn hoặc dính các dịch tiết của cơ thể phải vệ sinh tay bằng:",
+        "options":  [
+                        {
+                            "text":  "Nước và xà phòng thường.",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Dung dịch vệ sinh tay",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Khăn ướt",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Khăn giấy ướt",
+                            "correct":  false
+                        }
+                    ],
+        "id":  39,
+        "explanation":  "Đáp án đúng là: Nước và xà phòng thường.. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Khi giao nhận máu, chế phẩm máu giữa đơn vị phát máu và đơn vị điều trị, phải thực hiện:",
+        "options":  [
+                        {
+                            "text":  "Đối chiếu thông tin trên phiếu dự trù máu, đơn vị máu và phiếu truyền máu và có phương tiện bảo quản, vận chuyển máu, chế phẩm máu phù hợp",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Đối chiếu thông tin trên phiếu dự trù máu, đơn vị máu và nhóm máu",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Đối chiếu thông tin trên phiếu dự trù máu, đơn vị máu, và thời hạn túi máu",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Đối chiếu thông tin trên phiếu dự trù máu, và loại máu",
+                            "correct":  false
+                        }
+                    ],
+        "id":  40,
+        "explanation":  "Đáp án đúng là: Đối chiếu thông tin trên phiếu dự trù máu, đơn vị máu và phiếu truyền máu và có phương tiện bảo quản, vận chuyển máu, chế phẩm máu phù hợp. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Không sử dụng các đơn vị máu và chế phẩm máu, khi phát hiện thấy màu sắc chế phẩm máu như sau:",
+        "options":  [
+                        {
+                            "text":  "Màu hồng hoặc đỏ ở phần trên mặt phân cách huyết tương và hồng cầu hoặc toàn bộ huyết tương",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Huyết tương có màu sắc bất thường",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Phần hồng cầu đổi màu tím đỏ hoặc đen sẫm hoặc màu sắc bất thường khác",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "A, B, C đúng",
+                            "correct":  true
+                        }
+                    ],
+        "id":  41,
+        "explanation":  "Đáp án đúng là: A, B, C đúng. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Để phòng ngừa lây nhiễm chéo khi nhân viên y tế tiếp xúc với người bệnh cần phải:",
+        "options":  [
+                        {
+                            "text":  "Vệ sinh bàn tay, sử dụng các phương tiện phòng hộ cá nhân; đề phòng chấn thương do kim tiêm hoặc các vật sắc nhọn khác.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Quản lý tốt chất thải y tế; vệ sinh, khử trùng môi trường và các dụng cụ, thiết bị sử dụng...",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Tổ chức tập huấn định kỳ về thực hành phòng ngừa chuẩn và phòng ngừa theo đường lây lan cho nhân viên y tế, xây dựng các quy trình tiếp nhận, tầm soát, cách ly người bệnh mắc bệnh truyền nhiễm.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "A, B, C đúng",
+                            "correct":  true
+                        }
+                    ],
+        "id":  42,
+        "explanation":  "Đáp án đúng là: A, B, C đúng. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Để tránh bị phơi nhiễm do kim tiêm cần phải:",
+        "options":  [
+                        {
+                            "text":  "Phổ biến, tập huấn, tập huấn lại cho nhân viên y tế trực tiếp thực hiện kỹ thuật tiêm truyền: điều dưỡng, hộ sinh, kỹ thuật viên.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Phổ biến cho bác sĩ, sinh viên và học sinh đến thực tập tại bệnh viện.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Phổ biến, tập huấn và tập huấn lại quy trình kỹ thuật tiêm an toàn cho tất cả nhân viên y tế, bao gồm: bác sĩ, điều dưỡng, hộ sinh, kỹ thuật viên và sinh viên, học sinh.",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "A, B đúng.",
+                            "correct":  false
+                        }
+                    ],
+        "id":  43,
+        "explanation":  "Đáp án đúng là: Phổ biến, tập huấn và tập huấn lại quy trình kỹ thuật tiêm an toàn cho tất cả nhân viên y tế, bao gồm: bác sĩ, điều dưỡng, hộ sinh, kỹ thuật viên và sinh viên, học sinh.. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Để đảm bảo an toàn truyền máu cần phải:",
+        "options":  [
+                        {
+                            "text":  "Phân công cụ thể trách nhiệm của bác sĩ, điều dưỡng đối với việc theo dõi người bệnh trong suốt quá trình truyền máu.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Theo dõi sát người bệnh trước, trong và sau thời gian truyền máu tại các khoa/đơn vị điều trị để phát hiện sớm, đánh giá mức độ và xử trí kịp thời các dấu hiệu bất thường, các tai biến liên quan đến truyền máu.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Ghi chép đầy đủ tất cả thông tin về truyền máu vào hồ sơ bệnh án theo quy định.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "A, B, C đúng",
+                            "correct":  true
+                        }
+                    ],
+        "id":  44,
+        "explanation":  "Đáp án đúng là: A, B, C đúng. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Nhiễm khuẩn bệnh viện là nhiễm khuẩn xảy ra sau nhập viện :",
+        "options":  [
+                        {
+                            "text":  "12 giờ",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "24 giờ",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "48 giờ",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "96giờ",
+                            "correct":  false
+                        }
+                    ],
+        "id":  45,
+        "explanation":  "Đáp án đúng là: 48 giờ. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Phòng ngừa chuẩn là tập hợp các biện pháp phòng ngừa cơ bản áp dụng cho tất cả người bệnh:",
+        "options":  [
+                        {
+                            "text":  "Phụ thuộc vào chẩn đoán",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Phụ thuộc vào tình trạng nhiễm trùng",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Phụ thuộc vào thời điểm chăm sóc của người bệnh",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Tất cả các câu trên đềusai",
+                            "correct":  true
+                        }
+                    ],
+        "id":  46,
+        "explanation":  "Đáp án đúng là: Tất cả các câu trên đềusai. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Khi mặc phương tiện phòng hộ cá nhân, dây eo áo choàng cần cột ở vị trí nào để đảm bảo an toàn về kiểm soát nhiễm khuẩn:",
+        "options":  [
+                        {
+                            "text":  "Cột ở phía trước",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Cột ở phía sau",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Cột ở một bên hông",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Cột ở phía sau hoặc một bênhông",
+                            "correct":  true
+                        }
+                    ],
+        "id":  47,
+        "explanation":  "Đáp án đúng là: Cột ở phía sau hoặc một bênhông. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Những hành vi thiếu an toàn do cán bộ y tế không tuân thủ đúng quy trình, kỹ thuật tiêm là :",
+        "options":  [
+                        {
+                            "text":  "Dùng một kim lấy thuốc để pha thuốc và rút thuốc nhiều lần, lưu kim lấy thuốc trên lọ thuốc",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Không rửa tay trước khi chuẩn bị thuốc, trước khi tiêm và dùng chung bơm kim tiêm cho những loại thuốc khác nhau hoặc cho những người bệnh khác nhau",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Dùng lại kim tiêm để tiêm cho người bệnh sau mũi tiêm đầu không thành công",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Tất cả các câutrên",
+                            "correct":  true
+                        }
+                    ],
+        "id":  48,
+        "explanation":  "Đáp án đúng là: Tất cả các câutrên. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Tiêm an toàn là mũi tiêm:",
+        "options":  [
+                        {
+                            "text":  "Sử dụng dụng cụ tiêm thích hợp không gây nguy hại cho môi trường",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Sử dụng dụng cụ tiêm thích hợp, không gây hại cho người được tiêm cũng như người tiêm",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Sử dụng dụng cụ tiêm thích hợp, không gây hại cho người được tiêm, không gây phơi nhiễm cho người tiêm và không tạo chất thải nguy hại cho cộng đồng",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Sử dụngdụngcụtiêmantoàn,khônggâyhạichongườitiêmvàkhôngtạochấtthải nguy hại cho môitrường.",
+                            "correct":  false
+                        }
+                    ],
+        "id":  49,
+        "explanation":  "Đáp án đúng là: Sử dụng dụng cụ tiêm thích hợp, không gây hại cho người được tiêm, không gây phơi nhiễm cho người tiêm và không tạo chất thải nguy hại cho cộng đồng. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Tiêu chuẩn đánh giá mũi tiêm an toàn bao gồm:",
+        "options":  [
+                        {
+                            "text":  "Không gây hại cho người được tiêm",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Không gây hại cho người được tiêm và không gây nguy cơ phơi nhiễm cho người thực hiện tiêm",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Không gây hại cho người được tiêm; không gây nguy cơ phơi nhiễm cho người thực hiện tiêm và không tạo chất thải nguy hại cho người khác",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Không gây hại cho người được tiêm; không gây nguy cơ phơi nhiễm cho người thực hiện tiêm; không tạo chất thải nguy hại cho người khác và sử dụng dụng cụ thích hợp, thuốc an toàn trong khitiêm",
+                            "correct":  true
+                        }
+                    ],
+        "id":  50,
+        "explanation":  "Đáp án đúng là: Không gây hại cho người được tiêm; không gây nguy cơ phơi nhiễm cho người thực hiện tiêm; không tạo chất thải nguy hại cho người khác và sử dụng dụng cụ thích hợp, thuốc an toàn trong khitiêm. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Sát khuẩn cửa bơm thuốc",
+        "options":  [
+                        {
+                            "text":  "Không cần sát khuẩn, mở của bơm và bơm thuốc",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Sát khuẩn nắp cửa bơm, mở cửa bơm thuốc",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Mở nắp của bơm, sát khuẩn đoạn cửa bơm thuốc và si ranh sẽ gắn vào của nơi bơm thuốc",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Tất cả đều đúng",
+                            "correct":  false
+                        }
+                    ],
+        "id":  51,
+        "explanation":  "Đáp án đúng là: Sát khuẩn nắp cửa bơm, mở cửa bơm thuốc. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Chỉ định mang găng, NGOẠI TRỪ",
+        "options":  [
+                        {
+                            "text":  "Gồm có 5 bước, 6 thời điểm",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Chà mặt ngoài các ngón tay của bàn tay này vào lòng bàn tay kia",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Dùng bàn tay này xoay ngón cái của bàn tay kia và ngược lại",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Xoay các ngón của bàn tay này vào lòng bàn tay kia và ngượclại",
+                            "correct":  false
+                        }
+                    ],
+        "id":  52,
+        "explanation":  "Đáp án đúng là: Gồm có 5 bước, 6 thời điểm. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Khái niệm “Vệ sinh bàn tay” được hiểu là:",
+        "options":  [
+                        {
+                            "text":  "Rửa tay bằng xà phòng trung tính và nước",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Chà xát bàn tay bằng tay bằng dung dịch chứa cồn",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Rửa tay bằng xà phòng kháng khuẩn và nước",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Tất cả đềuđúng",
+                            "correct":  true
+                        }
+                    ],
+        "id":  53,
+        "explanation":  "Đáp án đúng là: Tất cả đềuđúng. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Mục đích của việc vệ sinh bàn tay khi thực hành chăm sóc người bệnh là:",
+        "options":  [
+                        {
+                            "text":  "Làm sạch và loại bỏ vi khuẩn tạm trú (vãng lai) trên bàn tay",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Đảm bảo an toàn cho người bệnh và nhân viên y tế",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Góp phần làm giảm tỷ lệ nhiễm khuẩn bệnh viện",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Tất cả đềuđúng",
+                            "correct":  true
+                        }
+                    ],
+        "id":  54,
+        "explanation":  "Đáp án đúng là: Tất cả đềuđúng. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Chất thải sau đây được phân loại",
+        "options":  [
+                        {
+                            "text":  "Chất thải có nguy cơ lây nhiễm cao",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Chất thải giải phẫu",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Chất thải lây nhiễm không sắc nhọn",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Chất thải lây nhiễm sắcnhọn",
+                            "correct":  false
+                        }
+                    ],
+        "id":  55,
+        "explanation":  "Đáp án đúng là: Chất thải lây nhiễm không sắc nhọn. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Xử lý nào không phù hợp khi bị kim tiêm sau sử dụng tâm vào tay:",
+        "options":  [
+                        {
+                            "text":  "Coi đây là một cấp cứu nội khoa cần được xử lý ngay lập tức",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Tốt nhất trong vòng 24 giờ",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Rửa ngay vết thương với nước sạch",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Nặn máu nếu vết thương đâm xuyênda",
+                            "correct":  true
+                        }
+                    ],
+        "id":  56,
+        "explanation":  "Đáp án đúng là: Nặn máu nếu vết thương đâm xuyênda. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Phương tiện PHCN được sử dụng nhằm mục đích:",
+        "options":  [
+                        {
+                            "text":  "Bảo vệ nhân viên y tế",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Bảo vệ người bệnh",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Bảo vệ cộng đồng",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Tất cả đề đúng",
+                            "correct":  true
+                        }
+                    ],
+        "id":  57,
+        "explanation":  "Đáp án đúng là: Tất cả đề đúng. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Bạn hãy chọn thực hành phù hợp nhất nếu khi ho không có khăn hoặc giấy che miệng",
+        "options":  [
+                        {
+                            "text":  "Dùng bàn tay che miệng",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Ho vào khoảng trống không có người",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Dùng mặt trong khuỷu tay để che miệng",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Đứng cách xa những người xung quanh 1m",
+                            "correct":  false
+                        }
+                    ],
+        "id":  58,
+        "explanation":  "Đáp án đúng là: Dùng mặt trong khuỷu tay để che miệng. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Các chất thải dưới đây là chất thải lây nhiễm, TRỪ",
+        "options":  [
+                        {
+                            "text":  "Chất thải lây nhiễm sắt nhọn",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Chất thải lây nhiễm không sắt nhọn",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Chất thải giải phẫu",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Hóa chất thải bỏ",
+                            "correct":  true
+                        }
+                    ],
+        "id":  59,
+        "explanation":  "Đáp án đúng là: Hóa chất thải bỏ. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Các việc điều dưỡng cần làm khi người bệnh xuất viện, ngoại trừ",
+        "options":  [
+                        {
+                            "text":  "Kiểm nhận các giấy tờ ra viện, toa/ đơn thuốc",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Hướng dẫn người bệnh những vấn đề cần chăm sóc, theo dõi và điều trị sau khi xuất viện",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Thông báo với người bệnh, gia đình người bệnh các khoản phí, ngày giờ ra viện",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Hướng dẫn nội quy bệnh viện",
+                            "correct":  true
+                        }
+                    ],
+        "id":  60,
+        "explanation":  "Đáp án đúng là: Hướng dẫn nội quy bệnh viện. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Xét nghiệm cấy nước tiểu tìm vi khuẩn, cần lấy nước tiểu theo phương pháp nào",
+        "options":  [
+                        {
+                            "text":  "Lấy nước tiểu sạch, giữa dòng",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Lấy nước tiểu giữa dòng, đảm bảo vô trùng dụng cụ lấy nước tiểu",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Lấy nước tiểu 24 giờ",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Lấy nước tiểu qua ống thông",
+                            "correct":  false
+                        }
+                    ],
+        "id":  61,
+        "explanation":  "Đáp án đúng là: Lấy nước tiểu giữa dòng, đảm bảo vô trùng dụng cụ lấy nước tiểu. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Áp dụng gội đầu tại giường cho người bệnh",
+        "options":  [
+                        {
+                            "text":  "Chấn thương sọ não gây tăng áp lực nội sọ",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Sốt cao",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Gãy xương đùi",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Tất cả người bệnh nằm viện",
+                            "correct":  false
+                        }
+                    ],
+        "id":  62,
+        "explanation":  "Đáp án đúng là: Gãy xương đùi. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Khi nâng đỡ người bệnh, điều dưỡng viên cần",
+        "options":  [
+                        {
+                            "text":  "Cố gắng nâng đỡ người bệnh nếu người bệnh quá nặng",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Gọi người phụ giúp nếu người bệnh quá nặng",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Hướng dẫn người nhà thay đổi tư thế cho người bệnh khi họ muốn",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Có thể đặt tư thế người bệnh tùy ý trong lúc nâng đỡ",
+                            "correct":  false
+                        }
+                    ],
+        "id":  63,
+        "explanation":  "Đáp án đúng là: Gọi người phụ giúp nếu người bệnh quá nặng. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Thứ tự đúng khi thay băng vết thương cho người bệnh",
+        "options":  [
+                        {
+                            "text":  "Điều dưỡng tiếp xúc, động viên người bệnh; nhận định vết thương; thay băng/ rửa vết thương; đi găng sạch, tháo băng cũ; sát khuẩn, thấm khô và băng vết thương",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Điều dưỡng tiếp xúc, động viên người bệnh; đi găng vô khuẩn, tháo băng cũ; nhận định vết thương; đi găng sạch, thay băng/ rửa vết thương; sát khuẩn, thấm khô và băng vết thương",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Điều dưỡng tiếp xúc, động viên người bệnh; nhận định vết thương; thay băng/ rửa vết thương; sát khuẩn, thấm khô và băng vết thương",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Điều dưỡng tiếp xúc, động viên người bệnh; đi găng sạch; tháo băng cũ; nhận định vết thương; đi găng vô khuẩn, thay băng/ rửa vết thương; sát khuẩn, thấm khô và băng vết thương",
+                            "correct":  true
+                        }
+                    ],
+        "id":  64,
+        "explanation":  "Đáp án đúng là: Điều dưỡng tiếp xúc, động viên người bệnh; đi găng sạch; tháo băng cũ; nhận định vết thương; đi găng vô khuẩn, thay băng/ rửa vết thương; sát khuẩn, thấm khô và băng vết thương. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Ngay khi người bệnh được chẩn đoán phản vệ, việc đầu tiên phải",
+        "options":  [
+                        {
+                            "text":  "Nhanh chóng chuyển người bệnh đến khoa cấp cứu của bệnh viện",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Để người bệnh nằm tại chỗ, đầu thấp, nghiêng bên trái (nếu có nôn)",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Ngừng ngay tiếp xúc với thuốc hoặc dị nguyên",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Để người bệnh nằm tại chỗ, đầu cao, gọi cấp cứu 115",
+                            "correct":  false
+                        }
+                    ],
+        "id":  65,
+        "explanation":  "Đáp án đúng là: Ngừng ngay tiếp xúc với thuốc hoặc dị nguyên. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Xử trí ống nghẹt thông mũi dạ dày:",
+        "options":  [
+                        {
+                            "text":  "Đưa ống lên cao, se ống",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Dịch chuyển ống ra hay vào một ít",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Bơm hơi vào nhẹ",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Tất cả đều đúng",
+                            "correct":  true
+                        }
+                    ],
+        "id":  66,
+        "explanation":  "Đáp án đúng là: Tất cả đều đúng. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Các trường hợp gây mất nước, NGOẠI TRỪ:",
+        "options":  [
+                        {
+                            "text":  "Tiêu chảy",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Bỏng",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Nôn ói",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Truyền dịch",
+                            "correct":  true
+                        }
+                    ],
+        "id":  67,
+        "explanation":  "Đáp án đúng là: Truyền dịch. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Người bệnh có thể gặp tai biến khi tiêm bắp ở vùng mông do:",
+        "options":  [
+                        {
+                            "text":  "Kỹ thuật tiêm không vô khuẩn",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Tiêm thuốc kháng sinh",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Đâm hết chiều dài kim",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Xác định vị trí tiêm sai, tiêm trúng dây thần kinh hông to",
+                            "correct":  true
+                        }
+                    ],
+        "id":  68,
+        "explanation":  "Đáp án đúng là: Xác định vị trí tiêm sai, tiêm trúng dây thần kinh hông to. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Sau khi hồi sức thành công, người bệnh tỉnh táo, tự thở:",
+        "options":  [
+                        {
+                            "text":  "Theo dõi người bệnh sát",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Không cần thiết cung cấp oxy",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Chế độ chăm sóc cấp III",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Nằm đầu cao 600",
+                            "correct":  false
+                        }
+                    ],
+        "id":  69,
+        "explanation":  "Đáp án đúng là: Theo dõi người bệnh sát. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Chức danh nghề nghiệp là?",
+        "options":  [
+                        {
+                            "text":  "Chức danh nghề nghiệp là tên gọi thể hiện trình độ và năng lực chuyên môn, nghiệp vụ của viên chức trong từng lĩnh vực nghề nghiệp.",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Chức danh nghề nghiệp là tên gọi thể hiện trình độ và năng lực chuyên môn nghiệp vụ của viên chức.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Chức danh nghề nghiệp là tên gọi thể hiện trình độ, chuyên môn, nghiệp vụ và năng lực của viên chức.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Chức danh nghề nghiệp là tên gọi thể hiện trình độ và năng lực chuyên môn, nghiệp vụ của viên chức trong đơn vị sự nghiệp công lập.",
+                            "correct":  false
+                        }
+                    ],
+        "id":  70,
+        "explanation":  "Đáp án đúng là: Chức danh nghề nghiệp là tên gọi thể hiện trình độ và năng lực chuyên môn, nghiệp vụ của viên chức trong từng lĩnh vực nghề nghiệp.. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Làm tan đông, ủ ấm túi máu, chế phẩm máu phải bảo đảm các điều kiện sau, NGOẠI TRỪ",
+        "options":  [
+                        {
+                            "text":  "Không để bề mặt túi máu, các vị trí cắm kim truyền máu tiếp xúc trực tiếp với dung dịch làm tan đông.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Làm tan đông ở nhiệt độ từ 300C đến 370C trong thời gian không quá 35 phút đối vớichế phẩm tủa lạnh",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Làm tan đông ở nhiệt độ từ 300C đến 370C trong thời gian không quá 45 phút đối với huyết tương đông lạnh",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Đơn vị máu",
+                            "correct":  false
+                        }
+                    ],
+        "id":  71,
+        "explanation":  "Đáp án đúng là: Làm tan đông ở nhiệt độ từ 300C đến 370C trong thời gian không quá 35 phút đối vớichế phẩm tủa lạnh. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Những vấn đề quan trọng của an toàn người bệnh, NGOẠI TRỪ",
+        "options":  [
+                        {
+                            "text":  "Nhiễm khuẩn bệnh viện",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Tổn thương do tai biến phẫu thuật",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Tổn thương do tai biên vô cảm",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Ít gặp ở dịch vụ y tế tư nhân",
+                            "correct":  true
+                        }
+                    ],
+        "id":  72,
+        "explanation":  "Đáp án đúng là: Ít gặp ở dịch vụ y tế tư nhân. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Tình huống phải phẫu thuật cấp cứu nhưng không thể hỏi ý kiến của người bệnh hoặc người đại diện của người bệnh",
+        "options":  [
+                        {
+                            "text":  "Trì hoãn cuộc phẫu thuật, đợi người thân có mặt",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Phẫu thuật viên cân nhắc tình trạng nguy hiểm, quyết định phẫu thuật khẩn không cần đợi thân nhân",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Giám đốc Bệnh viện là người quyết định tiến hành phẫu thuật",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Chỉ cần người bệnh kí xác nhận là không có người thân bên cạnh để đi phẫu thuật",
+                            "correct":  false
+                        }
+                    ],
+        "id":  73,
+        "explanation":  "Đáp án đúng là: Giám đốc Bệnh viện là người quyết định tiến hành phẫu thuật. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Khi thực hiện việc lấy máu bệnh nhân, lưu ý nào SAI?",
+        "options":  [
+                        {
+                            "text":  "Tháo dây garô sau khi đã lấy đủ lượng máu cần thiết và trước khi rút mũi kim tiêm.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Bơm máu theo một thứ tự vào các ống nghiệm sử dụng chất chống đông khác nhau.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Chỉ thay găng tay khi có máu dính vào găng hoặc khi có sự cố kim đâm.",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Đảm bảo thể tích máu cần thiết và tương ứng với mỗi loại ống nghiệm.",
+                            "correct":  false
+                        }
+                    ],
+        "id":  74,
+        "explanation":  "Đáp án đúng là: Chỉ thay găng tay khi có máu dính vào găng hoặc khi có sự cố kim đâm.. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Để đảm bảo nguyên tắc thời gian bảo quản dụng cụ đã vô khuẩn theo đúng quy định trong dịch vụ chăm sóc người bệnh, những việc cần làm là, NGOẠI TRỪ",
+        "options":  [
+                        {
+                            "text":  "Những dụng cụ tiệt khuẩn mà không đóng gói phải được ghi ngày phân loại để sử dụng trong thời gian dài.",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Những dụng cụ tiệt khuẩn được đóng gói hoặc đặt trong hộp tiệt khuẩn, được bảo quản một tuần, sau một tuần nếu chưa dùng cần phải hấp sấy lại.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Những hộp dụng cụ đã mở ra dùng, nếu dụng cụ bên trong chưa dùng hết thì sau 24 giờ phải đưa đi sấy hấp lại.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Khi vận chuyển dụng cụ đã tiệt khuẩn từ nơi bảo quản đến phòng thủ thuật, phẫu thuật, phải che đậy để tránh nhiễm bẩn.",
+                            "correct":  false
+                        }
+                    ],
+        "id":  75,
+        "explanation":  "Đáp án đúng là: Những dụng cụ tiệt khuẩn mà không đóng gói phải được ghi ngày phân loại để sử dụng trong thời gian dài.. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Biện pháp chủ yếu để phòng ngừa lây truyền qua đường giọt bắn là:",
+        "options":  [
+                        {
+                            "text":  "Mang khẩu trang, vấn đề thông khí và xử lý không khí đặc biệt không cần đặt ra",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Giữ bệnh nhân cách nhau tối thiểu 1 mét",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Hạn chế tối đa vận chuyển người bệnh",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Tất cả các câu trên đềuđúng",
+                            "correct":  true
+                        }
+                    ],
+        "id":  76,
+        "explanation":  "Đáp án đúng là: Tất cả các câu trên đềuđúng. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Quy trình “Báo động đỏ” được SYT khuyến cáo áp dụng cho loại bệnh viện nào?",
+        "options":  [
+                        {
+                            "text":  "Bệnh viện tuyếnhuyện",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Bệnh viện chuyên khoa tuyến tỉnh",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Bệnh viện đa khoa tuyếntình",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Tất cả bệnhviện",
+                            "correct":  true
+                        }
+                    ],
+        "id":  77,
+        "explanation":  "Đáp án đúng là: Tất cả bệnhviện. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Theo khuyến cáo của SYT, quy trình báo động đỏ nội viện được kích hoạt khi nào?",
+        "options":  [
+                        {
+                            "text":  "Người bệnh được chuyển đến khoa Cấp cứu trong tình trạng nguykịch",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Người bệnh được chuyển đến khoa Hồi sức tích cực trong tình trạng nguykịch",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Người bệnh được chuyển đến khoa Ngoại trong tình trạng nguykịch",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Người bệnh trong tình trạng nguy kịch cần can thiệp điều trị khẩncấp",
+                            "correct":  true
+                        }
+                    ],
+        "id":  78,
+        "explanation":  "Đáp án đúng là: Người bệnh trong tình trạng nguy kịch cần can thiệp điều trị khẩncấp. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Giải pháp hữu hiệu tránh sót gạc, dụng cụ phẫu thuật trên người bệnh được TCYTTG khuyến cáolà:",
+        "options":  [
+                        {
+                            "text":  "Chụp Xquang ngay sau phẫuthuật",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Siêu âm ngay sau phẫuthuật",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Đếm gạc và dụng cụ trước khi bắt đầu cuộcmổ",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Đếm gạc và dụng cụ trước và ngay sau khi cuộc mổ chấmdứt",
+                            "correct":  true
+                        }
+                    ],
+        "id":  79,
+        "explanation":  "Đáp án đúng là: Đếm gạc và dụng cụ trước và ngay sau khi cuộc mổ chấmdứt. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Khi tiến hành các kỹ thật điều trị xâm lấn người bệnh, định kỳ và đột xuất bệnh viện nên kiểm tra giám sát tuânthủ:",
+        "options":  [
+                        {
+                            "text":  "Quy trình vô khuẩn của nhân viên ytế",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Quy trình vệ sinh tay của ê kípmổ",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Quy trình vệ sinh phòngmổ",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Tất cả đều sai",
+                            "correct":  false
+                        }
+                    ],
+        "id":  80,
+        "explanation":  "Đáp án đúng là: Quy trình vô khuẩn của nhân viên ytế. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Theo quy định các thuốc nào không cần đánh số thứtự",
+        "options":  [
+                        {
+                            "text":  "Thuốc điều trịlao.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Thuốc kháng viêmNSAID.",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Thuốc Corticoid.",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Thuốc phóng xạ.",
+                            "correct":  false
+                        }
+                    ],
+        "id":  81,
+        "explanation":  "Đáp án đúng là: Thuốc kháng viêmNSAID.. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Trước khi truyền máu toàn phần, khối hồng cầu, khối bạch cầu, Bác sĩ điều trị và Điều dưỡng viên thực hiện ngay tạigiường:",
+        "options":  [
+                        {
+                            "text":  "Định nhóm máu bệnh nhân, làm phản ứng ngưng kết giữa máu bệnh nhân và túimáu",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Định nhóm máu của người bệnh và nhóm máu của túimáu",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Làm phản ứng ngưng kết tạigiường",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Chỉ cần định nhóm máu bệnhnhân",
+                            "correct":  false
+                        }
+                    ],
+        "id":  82,
+        "explanation":  "Đáp án đúng là: Định nhóm máu của người bệnh và nhóm máu của túimáu. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Chủ động giám sát sự cố liên quan đến an toàn người bệnh, NGOẠITRỪ",
+        "options":  [
+                        {
+                            "text":  "Hồ sơ bệnh án những bệnh nhân tử vong",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Bệnh nhân có thời gian điều trị kéodài",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Giám sát tất cả hồ sơ bệnhán",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Bệnh nhân tái nhập viện",
+                            "correct":  false
+                        }
+                    ],
+        "id":  83,
+        "explanation":  "Đáp án đúng là: Giám sát tất cả hồ sơ bệnhán. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Quy trình chống nhầm lẫn người bệnh được thực hiệntrong",
+        "options":  [
+                        {
+                            "text":  "Cấp phátthuốc",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Phẫu thủthuật",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Xét nghiệm",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Tất cả đúng",
+                            "correct":  true
+                        }
+                    ],
+        "id":  84,
+        "explanation":  "Đáp án đúng là: Tất cả đúng. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Biện pháp nào KHÔNG hạn chế sai sót do nhầm lẫn ngườibệnh",
+        "options":  [
+                        {
+                            "text":  "Sử dụng vòng nhận diện ngườibệnh",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Tuân thủ quy trình bàn giao ngườibệnh",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Thực hiện chăm sóc thiếtyếu",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Không sử dụng số giường, số phòng làm yếu tố nhậndiện",
+                            "correct":  false
+                        }
+                    ],
+        "id":  85,
+        "explanation":  "Đáp án đúng là: Thực hiện chăm sóc thiếtyếu. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Cách xử trí khi bị tổn thương do kim tiêm hay vật sắcnhọn",
+        "options":  [
+                        {
+                            "text":  "Nặn, bóp vết thương cho chảy nhanh hết máu nghi bị nhiễm rồi rửa tay bằng nướcsạch",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Để máu chảy tự nhiên, rửa ngay dưới vòi nước chảysạch",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Lập biên bản báo cáo sự cố để lãnh thuốc uống dựphòng",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Để máu chảy tự nhiên 5 phút rồi rửa vết thương bằng dung dịch sátkhuẩn",
+                            "correct":  false
+                        }
+                    ],
+        "id":  86,
+        "explanation":  "Đáp án đúng là: Để máu chảy tự nhiên, rửa ngay dưới vòi nước chảysạch. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Cấp cứu ngưng hô hấp tuần hoàn ở người lớn tiến hành theo trình tự",
+        "options":  [
+                        {
+                            "text":  "Airway, Breathing, Compression,Defibrilation",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Airway, Compression, Breathing,Defibrilation",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Breathing, Airway, Compression,Defibrilation",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Compression, Airway, Breathing,Defibrilation",
+                            "correct":  true
+                        }
+                    ],
+        "id":  87,
+        "explanation":  "Đáp án đúng là: Compression, Airway, Breathing,Defibrilation. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Airway, Breathing, Compression,Defibrilation",
+        "options":  [
+                        {
+                            "text":  "Airway, Compression, Breathing,Defibrilation",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Breathing, Airway, Compression,Defibrilation",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Compression, Airway, Breathing,Defibrilation",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "(Airway:kiểmsoátđườngthở,Breathing:thôngkhínhântạo,Compression:éptimngoài lồng ngực, Defibrilation: sử dụng máy phá rungtim)",
+                            "correct":  false
+                        }
+                    ],
+        "id":  88,
+        "explanation":  "Đáp án đúng là: Compression, Airway, Breathing,Defibrilation. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Airway, Compression, Breathing,Defibrilation",
+        "options":  [
+                        {
+                            "text":  "Breathing, Airway, Compression,Defibrilation",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Compression, Airway, Breathing,Defibrilation",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "(Airway:kiểmsoátđườngthở,Breathing:thôngkhínhântạo,Compression:éptimngoài lồng ngực, Defibrilation: sử dụng máy phá rungtim)",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Thuốc đầu tay trong điều trị sốc phản vệlà",
+                            "correct":  false
+                        }
+                    ],
+        "id":  89,
+        "explanation":  "Đáp án đúng là: Compression, Airway, Breathing,Defibrilation. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "(Airway:kiểmsoátđườngthở,Breathing:thôngkhínhântạo,Compression:éptimngoài lồng ngực, Defibrilation: sử dụng máy phá rungtim)",
+        "options":  [
+                        {
+                            "text":  "Thuốc đầu tay trong điều trị sốc phản vệlà",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Adrenaline",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Salbutamol",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Diaphylline",
+                            "correct":  false
+                        }
+                    ],
+        "id":  90,
+        "explanation":  "Đáp án đúng là: Adrenaline. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Thuốc đầu tay trong điều trị sốc phản vệlà",
+        "options":  [
+                        {
+                            "text":  "Adrenaline",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Salbutamol",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Diaphylline",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Hydrocortisone",
+                            "correct":  false
+                        }
+                    ],
+        "id":  91,
+        "explanation":  "Đáp án đúng là: Adrenaline. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Bảng kiểm an toàn phẫu thuật là gì?",
+        "options":  [
+                        {
+                            "text":  "Là công cụ nhằm giảm nguy cơ xảy ra các biến chứng có thể phòng tránh được quanh giai đoạn phẫuthuật",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Là danh sách các dụng cụ cần sử dụng trong phẫuthuật",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Là công cụ nhằm đảm bảo tất cả nhân viên sẵn sàng cho các tình huống khẩncấp",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Một tài liệu liệt kê danh sách vai trò của các thành viên tham gia trong phẫuthuật",
+                            "correct":  false
+                        }
+                    ],
+        "id":  92,
+        "explanation":  "Đáp án đúng là: Là công cụ nhằm giảm nguy cơ xảy ra các biến chứng có thể phòng tránh được quanh giai đoạn phẫuthuật. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Nội dung nào được kiểm tra hai lần khi thực hiện bảng kiểm an toàn phẫuthuật?",
+        "options":  [
+                        {
+                            "text":  "Cam kết, đồng thuận phẫuthuật",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Xác định thời gian phẫuthuật",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Xác định vị trí phẫuthuật",
+                            "correct":  true
+                        },
+                        {
+                            "text":  "Kiểm tra y dụng cụ đạt tình trạng vôkhuẩn",
+                            "correct":  false
+                        }
+                    ],
+        "id":  93,
+        "explanation":  "Đáp án đúng là: Xác định vị trí phẫuthuật. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    },
+    {
+        "question":  "Kiểm tra xác định lại tên tuổi người bệnh, vị trí phẫu thuật, phương pháp phẫu thuật là nhiệmvụ",
+        "options":  [
+                        {
+                            "text":  "Phẫu thuậtviên",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Bác sĩ gây mê, Kỹ thuật viên gâymê",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Điều dưỡng dụngcụ",
+                            "correct":  false
+                        },
+                        {
+                            "text":  "Cả ê kíp phẫuthuật",
+                            "correct":  true
+                        }
+                    ],
+        "id":  94,
+        "explanation":  "Đáp án đúng là: Cả ê kíp phẫuthuật. Nội dung này được đối chiếu từ đáp án đã đánh dấu trong đề cương ôn tập."
+    }
+]

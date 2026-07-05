@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f7f8fb">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Ôn thi ĐD">
+<link rel="manifest" href="manifest.webmanifest">
+<title>Ôn thi Điều dưỡng hạng III</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="app"><main class="phone">
+  <section class="top">
+    <h1>Ôn Thi Điều Dưỡng Hạng III</h1>
+    <div class="sub" id="bankInfo">Đang tải câu hỏi...</div>
+    <div class="controls">
+      <select class="select" id="countSelect">
+        <option value="5">5 câu</option><option value="10">10 câu</option><option value="15">15 câu</option><option value="20" selected>20 câu</option><option value="25">25 câu</option><option value="30">30 câu</option><option value="40">40 câu</option><option value="50">50 câu</option><option value="all">Tất cả</option>
+      </select>
+      <button class="btn primary" id="newBtn">Tạo đề mới</button>
+      <button class="btn ghost" id="resetBtn">Làm lại đề này</button>
+      <button class="btn ghost" id="modeBtn">Chế độ tối</button>
+    </div>
+  </section>
+  <section id="quiz" class="hidden">
+    <div class="progressRow"><div class="bar"><span id="bar"></span></div><div class="qIndex" id="qIndex"></div><div class="pill bad" id="wrongPill">× 0</div><div class="pill good" id="rightPill">✓ 0</div></div>
+    <div class="question"><h2 id="questionNo"></h2><p class="stem" id="stem"></p><div class="options" id="options"></div><div class="nav"><button class="btn" id="prevBtn">Trước</button><button class="btn primary" id="nextBtn">Tiếp theo</button></div></div>
+  </section>
+  <section id="home" class="home"><h2>Sẵn sàng ôn tập</h2><p>Chọn số câu rồi bấm tạo đề. Mỗi đề sẽ được trộn câu và trộn đáp án để bạn luyện nhiều lần không bị lặp cảm giác.</p><button class="btn blue big" id="startBtn">Bắt đầu ôn</button></section>
+  <section id="summary" class="summary hidden"></section>
+</main></div>
+<script src="app.js"></script>
+</body>
+</html>
